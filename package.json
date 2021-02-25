@@ -1,9 +1,9 @@
 {
-  "name": "taniarascia.com",
+  "name": "elijahpepe.com",
   "private": true,
   "version": "3.0.0",
-  "description": "Personal website running on Gatsby, React, and Node.js.",
-  "author": "Tania Rascia",
+  "description": "✨ My portfolio built with Gatsby.",
+  "author": "ElijahPepe",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/taniarascia/taniarascia.com"
+    "url": "https://github.com/elijahpepe/elijahpepe.com"
   },
   "resolutions": {
     "gatsby-react-router-scroll": "3.0.3"

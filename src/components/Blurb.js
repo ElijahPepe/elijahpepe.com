@@ -1,13 +1,13 @@
 import React from 'react'
 
-import tania from '../../content/images/elijahpepesmall.jpg'
+import elijah from '../../content/images/elijahpepesmall.jpg'
 
 export default function Blurb({ title, children }) {
   return (
     <section className="blurb">
       <div className="container">
         <div>
-          <img src={tania} alt="Tania" className="avatar" />
+          <img src={elijah} alt="Elijah" className="avatar" />
         </div>
         <div>
           <h3>{title}</h3>
